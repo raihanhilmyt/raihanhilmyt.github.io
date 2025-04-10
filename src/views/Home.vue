@@ -2,16 +2,16 @@
   <div>
     <!-- About Section -->
     <div class="w3-content w3-container w3-padding-64" id="about">
-      <h3 class="w3-center">ABOUT ME</h3>
-      <h4 class="w3-center"><em>Hello! I'm Raihan.</em></h4>
+      <h3 class="w3-center" data-aos="fade-up">ABOUT ME</h3>
+      <h4 class="w3-center" data-aos="fade-up"><em>Hello! I'm Raihan.</em></h4>
 
       <div class="w3-row">
-        <div class="w3-col m6 w3-center w3-padding-large">
+        <div class="w3-col m6 w3-center w3-padding-large" data-aos="fade-left">
           <img src="/images/me.jpg" class="w3-round w3-image w3-opacity w3-hover-opacity-off" alt="Photo of Me"
             width="200" height="150">
         </div>
 
-        <div class="w3-col m6 w3-padding-large">
+        <div class="w3-col m6 w3-padding-large" data-aos="fade-right">
           <p>Raihan was born on December 10, 1996 in Indonesia and has been living in Germany since December 2014.
             He decided to major in business informatics at the Hochschule für Technik und Wirtschaft Berlin after
             finishing the preparatory college
@@ -25,7 +25,7 @@
     </div>
 
     <!-- Resume Section -->
-    <div class="bgimg-2 w3-display-container w3-opacity-min" id="resume">
+    <div class="bgimg-2 w3-display-container w3-opacity-min" id="resume" data-aos="zoom-in">
       <div class="w3-display-middle">
         <span class="w3-xxlarge w3-text-white w3-wide">RÉSUMÉ</span>
       </div>
